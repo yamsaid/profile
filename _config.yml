@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Saidou Yameogo | Data Scientist
+description: Portfolio professionnel – Data Science, développement, formation
+logo: /assets/img/logo.png   # chemin vers ton logo (si tu en as un)
+show_downloads: false
+google_analytics:           # (optionnel) ton code UA
