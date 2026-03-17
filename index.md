@@ -6,8 +6,6 @@ layout: default
 
 ## Data Scientist | Python Trainer | Software Developer
 
-![Logo](assets/img/logo.png)   <!-- Affiche ton logo si tu en as un -->
-
 Bienvenue sur mon portfolio professionnel.  
 Je suis passionné par la **data science**, la **transformation numérique** et le **développement logiciel**.
 
