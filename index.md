@@ -54,7 +54,10 @@ Architecture Technique Complète :
 ![Dashboard Dengue](assets/img/image.png)  
 ![Actions](assets/img/image%20copy.png)
 **Code source** : [GitHub](https://github.com/yamsaid/DenGueSurveillanceApi)
+
 **Demo** : [web](https://web-production-7a08.up.railway.app/)
+
+**Rapport** : <iframe src="https://drive.google.com/file/d/1vXHj_6OBeH0VQ9n_7dJtIMubqxUA9CUV/preview" width="640" height="480"></iframe>
 
 ---
 
