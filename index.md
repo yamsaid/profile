@@ -4,8 +4,8 @@ layout: default
 
 <!--![Photo ou logo](assets/img/logo.png)  <!-- si tu as une photo professionnelle, mets-la ici -->
 
-Bienvenue sur mon portfolio !  
-Je suis **diplômé en Data Analyst**, basé au Burkina Faso, à la recherche d’un premier poste pour mettre mes compétences au service de projets concrets. Passionné par l’analyse de données et la visualisation, j’aime transformer des données brutes en informations utiles à la prise de décision.
+**Bienvenue sur mon portfolio !**  
+Je suis *diplômé en Data Analyst*, basé au Burkina Faso, à la recherche d’un premier poste pour mettre mes compétences au service de projets concrets. Passionné par l’analyse de données et la visualisation, j’aime transformer des données brutes en informations utiles à la prise de décision.
 
 ---
 
