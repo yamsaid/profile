@@ -1,9 +1,10 @@
+theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
-title: Saidou Yameogo | Data Scientist
-description: Portfolio professionnel – Data Science, développement, formation
+title: Saidou Yameogo | Data Analyst 
+description: Portfolio de Saidou Yameogo, Data Analyst junior passionné par l'analyse de données et la visualisation. Découvrez mes projets, compétences et contact."
 logo: /assets/img/logo.png   # chemin vers ton logo (si tu en as un)
 show_downloads: false
 google_analytics:           # (optionnel) ton code UA
